@@ -4,4 +4,8 @@ e-mail: deyvisondasilva@gmail.com
 
 Tenho 39 anos, gosto de esportes, games, filmes, gosto de atividades ao ar livre e estar em família e amigos.
 
-Deyvison Você gosta de Games? 
+<<<<<<< HEAD
+Fala Deyvison Você gosta de Games? 
+=======
+Uidney: Curte uns games?
+>>>>>>> 4d9b249cd497e4f725f6670d6d9ef0cb69a9bd66
