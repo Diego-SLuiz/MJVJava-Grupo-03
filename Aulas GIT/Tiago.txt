@@ -12,4 +12,11 @@ Uidney: Qual seu filme favorito?
 Heitor: Tenho Jogado lol tb mn, me chama la GURlNCRIVEL kkkkk
 
 Tiago: hausidhuiashuias demoro!
+<<<<<<< HEAD
+>>>>>>> 72b8b7e01e82821e63177894e9e832dfafb4ce59
 
+
+José Edson: gosta de series ?
+=======
+
+>>>>>>> 9219da88a0ced720843a4f24cc0ac438ccf22348
