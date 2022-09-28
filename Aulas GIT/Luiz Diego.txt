@@ -1,2 +1,7 @@
 Nome: Luiz Diego
 Email: luizdiego.silvabarbosa@gmail.com
+
+Uidney: Qual sua comida preferida?
+Minha comida preferida é Pizza!!
+
+Uidney: Joga que jogos nesse PC gamer aí?

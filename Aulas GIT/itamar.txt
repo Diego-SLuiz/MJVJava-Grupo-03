@@ -2,4 +2,21 @@ Nome: Itamar Januario Lemos Junior
 
 Email: juniorlemos811@gmail.com
 
+<<<<<<< HEAD
+BIO: Gosto muito de games e esportes, atualmente 
+venho praticando basquete.
+
+Ricardo pergunta para Itamar: Qual o seu jogo favorito?
+    meu jogo que estou atualmente jogando bastante é o valorant
+=======
 BIO: Gosto muito de games e esportes, atualmente venho praticando basquete.
+
+Uidney: Qual a sua meta para 2023?
+<<<<<<< HEAD
+>>>>>>> f9bf3ba574a0e6d57559801fcef66b4451a27bb2
+=======
+
+ficar fluente na conversação em inglês 
+arrumar um emprego
+passar no vestibular que eu desejo
+>>>>>>> 1f5448b28e74d35252fd0e87038cfe884fe40ff8

@@ -1,3 +1,15 @@
 Nome: Tiago Lopes
 E-mail: estudo.zzz@gmail.com
 Mais um Gamer! E em constante aprendizado.
+
+Qual Seu jogo favorito?
+
+Tiago: Jogo de tudo, ultimamente trolando no lolzinho e tu?
+<<<<<<< HEAD
+
+Uidney: Qual seu filme favorito?
+=======
+Heitor: Tenho Jogado lol tb mn, me chama la GURlNCRIVEL kkkkk
+
+Tiago: hausidhuiashuias demoro!
+>>>>>>> 72b8b7e01e82821e63177894e9e832dfafb4ce59

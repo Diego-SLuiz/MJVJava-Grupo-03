@@ -3,3 +3,16 @@ Heitor Gomes Brum Magacho
 heitormagacho@gmail.com
 
 Tenho um hamster de estimação, gosto de filmes, séries e jogos
+
+<<<<<<< HEAD
+Uidney: Qual tua série favorita?
+=======
+Tiago: Falae! um Filme, um Jogo e uma série?
+Heitor: kkkk filme-O Chalé, jogo-The last of us, Série-Orphan Black
+<<<<<<< HEAD
+>>>>>>> 72b8b7e01e82821e63177894e9e832dfafb4ce59
+=======
+
+Tiago: hauhauahu, cara só conheço o jogo pretendo o jogar, mas vou anotar o filme e o seriado ;O
+Tiago: acredito que nossa parte fizemos hahahahaahha
+>>>>>>> fc2b0d5e628f182d95771bca113ed1a1b6a66040
