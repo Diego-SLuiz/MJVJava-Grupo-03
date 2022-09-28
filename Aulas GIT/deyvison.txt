@@ -4,23 +4,15 @@ e-mail: deyvisondasilva@gmail.com
 
 Tenho 39 anos, gosto de esportes, games, filmes, gosto de atividades ao ar livre e estar em família e amigos.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 Uidney: Curte uns games?
->>>>>>> 4d9b249cd497e4f725f6670d6d9ef0cb69a9bd66
-=======
+
 Uidney: Curte uns games?
 
 José Edson: Gosta de churrasco ?
 Sim, com certeza, um churrasco e uma cerveja bem gelada.
-=======
+
 Anderson: Deyvison Você gosta de Games?
 Sim, gosto demais. Atualmente jogo bem pouco, curto um PUBG mobile, mas o foco é estudar. 
-<<<<<<< HEAD
+
 
 Sim. Atualmente jogo muito pouco, a parada é estudar kkkk
-=======
->>>>>>> 9219da88a0ced720843a4f24cc0ac438ccf22348
->>>>>>> 7189a59404f6abf9434db700a8e8a919adb7642e
->>>>>>> 484ef773d253c097a3edd82854d18bdf4b9e839b

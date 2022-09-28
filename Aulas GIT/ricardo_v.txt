@@ -3,14 +3,9 @@ E-mail: ricardovdev@hotmail.com
 Me: Tenho 20 anos
 
 Itamar fazendo uma pergunta para o ricardo:
-<<<<<<< HEAD
+
 Respondo pergunta do Itamar
-=======
 
 Uidney: Já viajou para outro Estado? Se sim, qual?
-<<<<<<< HEAD
 
 José Edson: gosta de jogar ?
-=======
->>>>>>> f9bf3ba574a0e6d57559801fcef66b4451a27bb2
->>>>>>> 9219da88a0ced720843a4f24cc0ac438ccf22348
