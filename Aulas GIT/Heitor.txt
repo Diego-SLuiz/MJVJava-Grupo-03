@@ -4,8 +4,17 @@ heitormagacho@gmail.com
 
 Tenho um hamster de estimação, gosto de filmes, séries e jogos
 
+<<<<<<< HEAD
+Uidney: Qual tua série favorita?
+=======
 Tiago: Falae! um Filme, um Jogo e uma série?
 Heitor: kkkk filme-O Chalé, jogo-The last of us, Série-Orphan Black
+<<<<<<< HEAD
+>>>>>>> 72b8b7e01e82821e63177894e9e832dfafb4ce59
+=======
 
-Tiago: hauhauahu, cara só conheço o jogo, mas pretendo jogar, mas vou anotar o filme e o seriado ;O
-Tiago: acredito que nossa parte fizemos hahahahaahha, borá fazer uma pergunta para geral agora
+<<<<<<< HEAD
+Tiago: hauhauahu, cara só conheço o jogo pretendo o jogar, mas vou anotar o filme e o seriado ;O
+Tiago: acredito que nossa parte fizemos hahahahaahha
+>>>>>>> fc2b0d5e628f182d95771bca113ed1a1b6a66040
+>>>>>>> 1f5448b28e74d35252fd0e87038cfe884fe40ff8
