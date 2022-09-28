@@ -1,9 +1,18 @@
-Nome: Deyvison Ramos
+﻿Nome: Deyvison Ramos
 
 e-mail: deyvisondasilva@gmail.com
 
 Tenho 39 anos, gosto de esportes, games, filmes, gosto de atividades ao ar livre e estar em família e amigos.
 
+<<<<<<< HEAD
+Uidney: Curte uns games?
+
+José Edson: Gosta de churrasco ?
+=======
 Deyvison Você gosta de Games? 
+<<<<<<< HEAD
 
 Sim. Atualmente jogo muito pouco, a parada é estudar kkkk
+=======
+>>>>>>> 9219da88a0ced720843a4f24cc0ac438ccf22348
+>>>>>>> 7189a59404f6abf9434db700a8e8a919adb7642e
