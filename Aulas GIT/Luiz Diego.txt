@@ -5,5 +5,9 @@ Uidney: Qual sua comida preferida?
 Minha comida preferida é Pizza!!
 
 Uidney: Joga que jogos nesse PC gamer aí?
+<<<<<<< HEAD
 
 José Edson: Quais o seus hobbys ?
+=======
+jogava um fortnite de vez em quando kkkkkkkk
+>>>>>>> 9219da88a0ced720843a4f24cc0ac438ccf22348

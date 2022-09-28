@@ -1,7 +1,16 @@
 ﻿Nome: Anderson Duarte de Oliveira;
 Email: anderson.is.duarte@gmail.com
+<<<<<<< HEAD
+Um pouco sobre mim: Vou fazer 37 anos em Dezembro, gosto de estdar programação. Atualmente estava estudando javascript e agora Java. Gosto de tocar Violão. Assistir Séries e Filmes. Sou caseiro e gosto de ficar com minha esposa e filho de 4 patas. 
+
+Você gosta de música??
+=======
 Um pouco sobre mim: Vou fazer 37 anos em Dezembro, gosto de estdar programação. Atualmente estava estudando javascript e agora Java. Gosto de tocar Violão. Assistir Séries e Filmes. Sou caseiro e gosto de ficar com minha esposa e filho de 4 patas.
 
 Uidney: Qual seu maior sonho? 
+<<<<<<< HEAD
 
 José Edson: o que você gosta de fazer longe do pc ?
+=======
+>>>>>>> 7215453bb059986ba0904c3e4e638dc82947ef4b
+>>>>>>> 9219da88a0ced720843a4f24cc0ac438ccf22348
