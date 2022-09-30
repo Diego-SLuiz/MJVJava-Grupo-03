@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 //LocalDate
-public class PowerClass {
+public class PowerClassLocalDateExemplos {
 
     public static void main(String[] args){
 

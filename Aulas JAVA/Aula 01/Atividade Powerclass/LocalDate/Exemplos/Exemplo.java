@@ -13,7 +13,7 @@ public class Exemplo {
 
     static void testOf () {
         //Criando uma data usando LocalDate
-        LocalDate data = LocalDate.of(2022, Month.JANUARY, 22);
+        LocalDate data = LocalDate.of(2001, 7, 3);
         //MOSTRANDO A DATA POR COMPLETO
         System.out.println("LocalDate.of - Mostrando a data: " + data);
         //PEGANDO APENAS O ANO DA DATA
