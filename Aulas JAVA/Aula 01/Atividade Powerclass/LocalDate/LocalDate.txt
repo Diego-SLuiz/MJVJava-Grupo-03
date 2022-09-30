@@ -1,0 +1,26 @@
+## Class LocalDate
+ 
+
+- A classe LocalDate está presente no java desde a versão 1.8(Java 8)
+
+- Antes desta versão a Classe padrão para trabalhar com data e hora era a classe Calendar
+
+- A classe Calendar além de ter problemas na usabilidade, não é thread-safe além de não
+ser uma classe imutável, também considerada complexa de usar por muitos programadores.
+
+- a Classe LocalDate, assim como outras classes que foram implementadas no Java 8, vieram 
+de uma lib, a Joda Time, que antes da versão do 8 do Java, era utilizada pela comunidade Java
+e por ter uma boa aceitação desta comunidade, foi incorporada na versão 8 da linguagem
+
+- É uma classe imutável e thread-safe, que representa datas com o formato padrão de:
+yyyy-mm-dd
+
+- O design permite vários sistemas de calendário, enquanto ainda fornece uma API simples e 
+segue o padrão ISO 8601, é o sistema de calendário civil moderno usado hoje na maior parte 
+do mundo. É equivalente ao sistema de calendário gregoriano proléptico, no qual as regras 
+de hoje para anos bissextos são aplicadas para todos os tempos.
+
+- Método mais usado: now()
+    Ele obtém a data atual a partir do relógio do sistema, no fuso horário padrão local.
+
+
