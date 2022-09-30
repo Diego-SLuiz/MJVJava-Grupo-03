@@ -6,7 +6,7 @@ A classe Thread está disponível desde a versão 1.0 da linguagem, ela nos perm
 Os principais métodos que devemos compreender são:
 
 -> getInstance
-static Calendar	getInstance() : Gets a calendar using the default time zone and locale.
-static Calendar	getInstance(Locale aLocale) : Gets a calendar using the default time zone and specified locale.
-static Calendar	getInstance(TimeZone zone) : Gets a calendar using the specified time zone and default locale.
-static Calendar	getInstance(TimeZone zone, Locale aLocale) : Gets a calendar with the specified time zone and locale.
+static Calendar	getInstance() : Obtém um calendário usando o fuso horário e a localidade padrão.
+static Calendar	getInstance(Locale aLocale) : Obtém um calendário usando o fuso horário padrão e a localidade especificada.
+static Calendar	getInstance(TimeZone zone) : Obtém um calendário usando o fuso horário especificado e a localidade padrão.
+static Calendar	getInstance(TimeZone zone, Locale aLocale) : Obtém um calendário com o fuso horário e a localidade especificados.
