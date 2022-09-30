@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Atividade Powerclass.iml" filepath="$PROJECT_DIR$/.idea/Atividade Powerclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalDate/LocalDate.iml" filepath="$PROJECT_DIR$/LocalDate/LocalDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalDateTime/LocalDateTime.iml" filepath="$PROJECT_DIR$/LocalDateTime/LocalDateTime.iml" />
+    </modules>
+  </component>
+</project>
