@@ -1,12 +1,15 @@
 A classe Calendar está localizada no pacote java.util desde a versao JDK1.1 e fornece métodos para converter entre um instante específico no tempo e um conjunto de campos
 de calendário, como YEAR, MONTH, DAY_OF_MONTH, HOUR e assim por diante, e para manipular os campos de calendário, como obter a data da próxima semana.
-Abaixo segue alguns métodos que serão aplicados em cenários como:
 
-A classe Thread está disponível desde a versão 1.0 da linguagem, ela nos permite que iniciamos execuções \ processos paralelos em nossa aplicação. 
-Os principais métodos que devemos compreender são:
-
+classea abstrata, um simples construtor não é suficiente, usa-se um metodo para iniciar a classe
 -> getInstance
 static Calendar	getInstance() : Obtém um calendário usando o fuso horário e a localidade padrão.
 static Calendar	getInstance(Locale aLocale) : Obtém um calendário usando o fuso horário padrão e a localidade especificada.
 static Calendar	getInstance(TimeZone zone) : Obtém um calendário usando o fuso horário especificado e a localidade padrão.
 static Calendar	getInstance(TimeZone zone, Locale aLocale) : Obtém um calendário com o fuso horário e a localidade especificados.
+
+Abaixo segue alguns métodos que serão aplicados em cenários como:
+
+-> getTime : Retorna um objeto Date que representa o valor de tempo deste Calendário (deslocamento de milissegundos da Epoch").
+-> add : Adiciona ou subtrai a quantidade de tempo especificada ao campo de calendário fornecido, com base nas regras do calendário.
+-> after : Retorna se este Calendar representa uma hora após a hora representada pelo Object especificado.
