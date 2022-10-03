@@ -1,0 +1,113 @@
+Heitor
+
+import java.util.Calendar;
+
+public class Calendar_io {
+
+    public static void PrintMoment(Calendar c) {
+        System.out.println("Data e Hora atual: "+c.getTime());
+        System.out.println("Dia: "+c.get(Calendar.DAY_OF_MONTH));
+        System.out.println("Mês: "+c.get(Calendar.MONTH));
+        System.out.println("Ano: "+c.get(Calendar.YEAR));
+        System.out.println();
+    }
+
+    public static void main(String[] args) {
+
+        //Criando e instanciando o Calendar c
+        Calendar c = Calendar.getInstance();
+        System.out.println("TimeZone: "+c.getTimeZone());
+        System.out.println("Locale: "+c.);
+
+        PrintMoment(c);
+
+        c.set(Calendar.YEAR, 1995);
+        c.set(Calendar.MONTH, Calendar.MARCH);
+        c.set(Calendar.DAY_OF_MONTH, 20);
+
+        PrintMoment(c);
+
+        int hora = c.get(Calendar.HOUR_OF_DAY);
+        if(hora > 6 && hora < 12) {
+            System.out.println("Bom Dia");
+        } else if (hora > 12 && hora < 18) {
+            System.out.println("Boa Tarde");
+        } else {
+            System.out.println("Boa Noite");
+        }
+
+        c.set(Calendar.HOUR_OF_DAY, 8);
+        hora = c.get(Calendar.HOUR_OF_DAY);
+
+
+    }
+
+}
+
+
+
+Magda
+
+
+import java.util.Calendar;
+
+public class CalendarExercise{
+    public static void main(String[] args){
+
+        //Método GetInstance obtem o timezone atual local. Usado para inicializar o calendário.
+        Calendar calendar1 = Calendar.getInstance();
+        Calendar calendar2 = Calendar.getInstance();
+
+        //Método GetTime retorna um objeto do tipo Data que representa o tempo do calendário (dia, hora, minuto, timezone e ano).
+        System.out.println("Data de hoje: " + calendar1.getTime());
+        
+        //Método ADD adiciona ou subtrai uma quantidade específica de tempo do calendário.
+        calendar2.add(Calendar.DAY_OF_MONTH, -5);
+        System.out.println("Cinco dias antes do dia de hoje: " + calendar2.getTime());
+
+        //Método After retorna um boolean | faz uma comparação entre datas.
+        System.out.println("Calendário1 antes de Calendário2? " + (calendar1.after(calendar2) ? "sim" : "não"));
+    }
+
+}
+
+
+
+Tiago
+
+import java.util.Calendar;
+
+
+public class Main {
+    public static void main(String[] args){
+
+        Calendar calendar = Calendar.getInstance();
+        System.out.println("Todas as informações do Calendar \n" + calendar +"\n");
+
+        System.out.println("Para manipular a data podemos utilizar o add, set e o roll, alguns exemplos \n");
+        System.out.println("Data Atual");
+        System.out.println(".getTime(): " + calendar.getTime());
+        System.out.println("Dia:" + calendar.get(Calendar.DAY_OF_MONTH));
+
+        System.out.println("\nInserindo uma Data com .set");
+        calendar.set(2022,2,26); //
+        System.out.println(".getTime(): " + calendar.getTime());
+        System.out.println("Dia alterada:" + calendar.get(Calendar.DAY_OF_MONTH));
+
+        System.out.println("\nManipulando uma Data com .roll");
+        calendar.roll(Calendar.DAY_OF_WEEK,2); //Pegamos o dia do mês e adicionamos dois (31)
+        System.out.println("Neste Exemplo, o dia do mês foi alterado, acrescentado +2 \n" + calendar.getTime() + " \n");
+
+        System.out.println("=====================");
+        System.out.println("Precisamos identificar o local?\nUtilizamos o TimeZone().toZoneId");
+        System.out.println(calendar.getTimeZone().toZoneId());
+
+        System.out.println("=====================");
+        System.out.println("HashCode");
+        System.out.println("Calendar Atual: " + calendar.getTime());
+        System.out.println("HashCode do Calendar: " + calendar.hashCode());
+        System.out.println("=====================");
+
+
+    }
+} 
